@@ -4,7 +4,7 @@
 
 Using unsurpervised machine learning to cluster differnet cryptocurrencies by market value. 
 
-The goals for this challenge are to:
+The goals for this project are to:
 
 * Prepare the data for dimensions reduction with PCA and clustering using K-means.
 * Reduce data dimensions using PCA algorithms from sklearn.
