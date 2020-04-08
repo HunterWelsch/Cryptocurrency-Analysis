@@ -36,5 +36,5 @@ Used the K-means clustering algorithm from sklearn to cluster the cryptocurrenci
 * Create a new DataFrame, called clustered_df, from the results that includes the following columns: Algorithm, ProofType, TotalCoinsMined, TotalCoinSupply, PC 1, PC 2, PC 3, CoinName, and Class.
 
 ### Visualizing Results
-Create a 3D scatter plot using Plotly Express that plots the results, clustered_df, and includes information in a hover pop-up for each point.
-Create a table of the results with the following columns: CoinName, Algorithm, ProofType, TotalCoinSupply, TotalCoinsMined, and Class.
+* Create a 3D scatter plot using Plotly Express that plots the results, clustered_df, and includes information in a hover pop-up for each point.
+* Create a table of the results with the following columns: CoinName, Algorithm, ProofType, TotalCoinSupply, TotalCoinsMined, and Class.
